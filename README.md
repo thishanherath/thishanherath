@@ -8,8 +8,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thishanherath&label=Profile%20views&color=0e75b6&style=flat" alt="thishanherath" /> </p>
 
-- 
-
 - 🎓 BICT Undergraduate @ University of Ruhuna, Faculty of Technology
 
 - 🧑‍💻 I’m currently learning **Spring Boot and Flask**
