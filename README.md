@@ -3,9 +3,12 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>
 </h1>
-<h3 align="center">A passionate Full stack Developer</h3>
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology
+</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thishanherath&label=Profile%20views&color=0e75b6&style=flat" alt="thishanherath" /> </p>
+
+- 
 
 - 🎓 BICT Undergraduate @ University of Ruhuna, Faculty of Technology
 
